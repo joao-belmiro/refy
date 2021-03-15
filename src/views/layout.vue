@@ -40,7 +40,7 @@
     <q-drawer
       v-model="drawer"
       show-if-above
-      :width="250"
+      :width="200"
       :breakpoint="400"
       content-class="bg-grey-3"
     >
